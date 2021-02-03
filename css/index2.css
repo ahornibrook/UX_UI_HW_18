@@ -22,7 +22,7 @@ body {
     justify-content: flex-end;
 }
 
-div p {
+nav p {
     padding-right: 25px;
 }
 
@@ -39,10 +39,12 @@ div p {
     margin-top: 60px;
     color: white;
     border-radius: 15px;
+
 }
 
 .left p{
     padding-bottom: 20px;
+    padding-right: 40px;
 }
 
 .left h1{
